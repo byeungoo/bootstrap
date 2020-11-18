@@ -3,3 +3,9 @@
 2. id 포함 태그 만들기 예시 : div#wrapper + tab
 
 3. 부모 자식 구조 빠르게 만들기 : nav>ul>li*5 + tab
+
+4. 부모 자식 구조 빠르게 만들기2 : nav>ul>li*5>{menu$}+ tab
+
+5. 다중 입력 : ctrl + alt + 화살표
+
+6. 키보드
